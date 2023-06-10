@@ -1,0 +1,18 @@
+{
+	"type": {
+		"value": "type",
+		"label": "Types",
+		"value": "full time",
+		"label": "Full time",
+		"value": "part time",
+		"label": "Part time",
+		"value": "paid",
+		"label": "Paid",
+		"value": "no paid",
+		"label": "No paid",
+		"value": "office",
+		"label": "Office",
+		"value": "online",
+		"label": "Online"
+	}
+}

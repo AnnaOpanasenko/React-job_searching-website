@@ -1,0 +1,129 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,
+*:before,
+*:after {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus,
+:active {
+	outline: none;
+}
+a:focus,
+a:active {
+	outline: none;
+}
+
+nav,
+footer,
+header,
+aside {
+	display: block;
+}
+
+html,
+body {
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+	background-image: url("../public/images/Color.png");
+}
+input,
+button,
+textarea {
+	font-family: inherit;
+}
+
+input,
+button,
+textarea {
+	font-family: inherit;
+}
+
+input::-ms-clear {
+	display: none;
+}
+button {
+	cursor: pointer;
+}
+button::-moz-focus-inner {
+	padding: 0;
+	border: 0;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+ul li {
+	list-style: none;
+}
+img {
+	vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-size: inherit;
+	font-weight: 400;
+}
+
+/* App.css */
+
+@import url(https://fonts.googleapis.com/css?family=Lato:300,regular,700,900);
+
+html {
+	font-family: "Lato";
+	color: #333;
+}
+.container {
+	margin: 0;
+	padding-inline: 2rem;
+	width: min(100%, 1920px);
+	padding-block: 5rem;
+}
+
+.nav-tabs,
+.nav-link {
+	--bs-nav-tabs-border-color: #333 !important;
+	--bs-nav-tabs-link-active-border-color: #333 !important;
+	--bs-nav-tabs-border-color: #333 !important;
+	--bs-nav-tabs-border-radius: 1.5rem !important;
+}
+.nav-tabs .nav-link.active {
+	border-bottom-color: transparent !important;
+}
+
+/* Header css */
+nav {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 29px;
+}
+nav.navbar {
+	padding: 1rem 2rem;
+}
+#collasible-nav-dropdown {
+	display: flex;
+	align-items: center;
+}
+a.nav-link {
+	color: #333;
+}
+a.nav-link:hover {
+	color: #ffc107;
+}

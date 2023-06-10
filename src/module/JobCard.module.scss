@@ -1,0 +1,21 @@
+.job_card {
+	border: 1px solid #dfddd9;
+	border-radius: 40px;
+	box-shadow: 4px 4px 4px #efeeed;
+	background-color: #fdfdfd;
+	z-index: 2;
+	p {
+		font-style: normal;
+		font-weight: 400;
+		font-size: 20px;
+		line-height: 20px;
+	}
+	.btn_link {
+		text-decoration: none;
+		color: #333;
+		font-size: 18px;
+	}
+	.btn_link:hover {
+		--bs-btn-hover-bg: #ffc107;
+	}
+}

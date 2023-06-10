@@ -1,0 +1,14 @@
+[
+	{
+		"id": 1,
+		"firstName": "Susan",
+		"lastName": "Binen",
+		"currentLocation": "Antwerpen, Belgium",
+		"university": "National University of Art",
+		"resume": "document.doc",
+		"linkIn": "susanbinen.com.linkin",
+		"phoneNumber": "047-89-75-035",
+		"email": "student@gmail.com",
+		"photo": "face.jpg"
+	}
+]

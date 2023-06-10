@@ -1,0 +1,18 @@
+.footer {
+	background-color: rgba(255, 255, 255, 0.1);
+	backdrop-filter: blur(10px);
+	border-top: 0.25px solid rgba(255, 255, 255, 0.5);
+	border-left: 0.25px solid rgba(255, 255, 255, 0.5);
+	z-index: 2;
+	width: 100%;
+	.container {
+		width: min(100%, 1920px);
+	}
+	a {
+		text-decoration: none;
+		color: #333;
+	}
+	a:hover {
+		color: #ffc107;
+	}
+}

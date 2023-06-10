@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"name": "BKSvision",
+		"location": "Brussel, Belgium",
+		"webSite": "bks-vision.be",
+		"vatNumber": "33-44-55",
+		"description": "BKSvision , based in Brussel , develops high-tech Manufacturing Execution Systems (MES) that are sold worldwide to companies in the textile and plastics industry.",
+		"contactPerson": "Emilia Valson",
+		"photo": "2335.jpg",
+		"phone": "047-98-76-943",
+		"email": "company@email"
+	},
+	{
+		"id": 2,
+		"name": "Bubble",
+		"location": "Antwerpen, Belgium",
+		"webSite": "bubble-create.be",
+		"vatNumber": "23-45-67",
+		"description": "Bubble , based in Antwerpen , develops high-tech Manufacturing Execution Systems (MES) that are sold worldwide to companies in the textile and plastics industry.",
+		"contactPerson": "James Hook",
+		"photo": "2335.jpg",
+		"phone": "047-75-76-773",
+		"email": "bubble-company@email"
+	},
+	{
+		"id": 3,
+		"name": "Black night",
+		"location": "Leuven, Belgium",
+		"webSite": "black-night.be",
+		"vatNumber": "98-03-27",
+		"description": "Black Night , based in Leuven , develops high-tech Manufacturing Execution Systems (MES) that are sold worldwide to companies in the textile and plastics industry.",
+		"contactPerson": "Moris Blamison",
+		"photo": "2335.jpg",
+		"phone": "047-90-09-947",
+		"email": "black_nighht@email"
+	}
+]
